@@ -74,7 +74,50 @@ Your report should contain:
 
 - **Pre-lab Calculations**  
 ## TABULATION
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6f472600-b989-41de-85f8-d0d1b325b611" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f952bc6-1de4-46b6-a636-ce567b738978" />
+<img width="1536" height="1600" alt="image" src="https://github.com/user-attachments/assets/bb6c7348-4e5d-4229-8c88-f9682648e36a" />
+<img width="1600" height="889" alt="image" src="https://github.com/user-attachments/assets/1466097a-555e-4d0a-b2d7-d1b0df4f6355" />
+<img width="1600" height="1065" alt="image" src="https://github.com/user-attachments/assets/b918a9c7-f7f7-4c16-8e5d-a93829e6824f" />
+
+## GRAPH OF 2.5GB:
+HIGH NOISE:
+<img width="974" height="579" alt="Screenshot 2026-01-31 141055" src="https://github.com/user-attachments/assets/e1ea9c6d-9d5f-43ef-a010-bf5328bcbf75" />
+
+LOW NOISE:
+<img width="999" height="576" alt="Screenshot 2026-01-31 141622" src="https://github.com/user-attachments/assets/e8236f42-0e98-44e3-8aad-05c805103b20" />
+
+## GRAPH OF 10GB:
+HIGH NOISE:
+<img width="967" height="750" alt="Screenshot 2026-01-31 143335" src="https://github.com/user-attachments/assets/a15e79e3-8c2e-4208-8a74-d36a9a36b16a" />
+
+LOW NOISE:
+<img width="997" height="769" alt="Screenshot 2026-01-31 143456" src="https://github.com/user-attachments/assets/10a3d23f-7138-466f-95a1-dd00a5c3f26b" />
+
+
+## DESCRIPTION:
+Attenuation measurement at 2.5 Gbps and 10 Gbps evaluates the optical power loss in a fiber due to absorption, scattering, and connection losses. This measured attenuation determines the attenuation-limited fiber length, which is the maximum distance the signal can travel while still maintaining sufficient power at the receiver for reliable communication.
+
+## Analysis and Report
+Compare simulation results with pre-lab calculations and record observations.  
+
+Your report should contain:
+- **Cover Page**
+  - Title of the lab  
+  - Course name and number  
+  - Your name  
+
+- **Pre-lab Calculations**  
+
+- **Screenshots** of layout and results (including eye diagrams)  
+
+- **Summary Table** for each simulation:
+  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
+  |-------------------|-----------------------|----------|-----|
+  
+
+- **Written Summary** of observations and explanations of differences.  
+## result 
+thus the experiment was succesfully completed and output is verified 
+
+
 
 
